@@ -1,0 +1,2 @@
+As a Security Authority, I want to view case summaries so that I can stay informed about investigations
+Acceptance Criteria: Case list with status is shown
