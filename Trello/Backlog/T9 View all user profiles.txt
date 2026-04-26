@@ -1,0 +1,2 @@
+As an Administrator, I want to view all user profiles so that I can monitor system users
+Acceptance Criteria: User list is displayed with roles and details
