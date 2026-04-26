@@ -1,0 +1,2 @@
+As an Administrator, I want to remove or deactivate users so that unauthorized access is prevented
+Acceptance Criteria: Removed users cannot log in

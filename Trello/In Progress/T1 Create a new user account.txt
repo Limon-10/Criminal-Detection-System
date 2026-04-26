@@ -1,0 +1,2 @@
+I want to create a new user account so that authorized users can access the system
+Acceptance Criteria: OTP verification is completed and a role is assigned
