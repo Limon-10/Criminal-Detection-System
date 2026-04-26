@@ -1,0 +1,2 @@
+I want to add a criminal record so that criminal data is stored in the system
+Acceptance Criteria: Record includes personal details, history, and photo
