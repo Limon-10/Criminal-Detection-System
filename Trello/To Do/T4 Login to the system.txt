@@ -1,0 +1,2 @@
+I want to log into the system so that I can access investigation tools
+Acceptance Criteria: Dashboard loads after successful login
