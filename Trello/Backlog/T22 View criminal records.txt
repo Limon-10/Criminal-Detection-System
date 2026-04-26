@@ -1,0 +1,2 @@
+As a Security Authority, I want to view criminal records so that I can monitor offenders
+Acceptance Criteria: Records are viewable with restricted edit access
