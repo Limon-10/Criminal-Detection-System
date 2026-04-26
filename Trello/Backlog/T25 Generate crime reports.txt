@@ -1,2 +1,0 @@
-As a Security Authority, I want to generate crime reports so that I can analyze crime data
-Acceptance Criteria: Reports include statistics and trends
