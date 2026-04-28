@@ -1,2 +1,0 @@
-As an Administrator, I want to update user information so that the system data remains accurate
-Acceptance Criteria: Updated information is saved and reflected immediately								

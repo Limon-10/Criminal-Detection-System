@@ -1,2 +1,0 @@
-I want to create a case so that I can manage investigations
-Acceptance Criteria: Case includes details, suspects, and status

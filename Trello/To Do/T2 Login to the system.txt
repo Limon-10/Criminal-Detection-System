@@ -1,2 +1,0 @@
-I want to log into the system so that I can manage the platform
-Acceptance Criteria: Dashboard is accessible after successful login

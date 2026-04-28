@@ -1,2 +1,0 @@
-As a Security Authority, I want to log into the system so that I can monitor activities
-Acceptance Criteria: Dashboard is accessible after login

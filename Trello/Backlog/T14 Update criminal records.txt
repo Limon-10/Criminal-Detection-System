@@ -1,2 +1,0 @@
-As a Police Officer, I want to update criminal records so that information stays up to date
-Acceptance Criteria: Updated data is saved and visible

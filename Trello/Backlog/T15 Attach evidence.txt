@@ -1,2 +1,0 @@
-As a Police Officer, I want to attach evidence so that case information is complete
-Acceptance Criteria: Files are uploaded and linked to the case

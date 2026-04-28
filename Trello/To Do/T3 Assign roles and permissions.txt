@@ -1,2 +1,0 @@
-I want to assign roles and permissions so that users only access allowed features
-Acceptance Criteria: Access is restricted based on assigned roles

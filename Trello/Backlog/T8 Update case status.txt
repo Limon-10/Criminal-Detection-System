@@ -1,2 +1,0 @@
-I want to update case status so that investigation progress is tracked
-Acceptance Criteria: Status updates are saved (Open / Under Investigation / Closed)

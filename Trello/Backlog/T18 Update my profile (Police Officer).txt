@@ -1,2 +1,0 @@
-As a Police Officer, I want to update my profile so that my information stays accurate
-Acceptance Criteria: Changes are saved successfully

@@ -1,2 +1,0 @@
-As a Security Authority, I want to monitor suspects so that I can track suspicious individuals
-Acceptance Criteria: Suspect list with details is displayed

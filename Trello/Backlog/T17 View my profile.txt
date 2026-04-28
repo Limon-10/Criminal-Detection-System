@@ -1,2 +1,0 @@
-As a Police Officer, I want to view my profile so that I can verify my information
-Acceptance Criteria: Profile details are displayed with edit option
