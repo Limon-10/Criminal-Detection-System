@@ -1,0 +1,2 @@
+As a Security Authority, I want to analyze crime trends so that I can improve crime prevention
+Acceptance Criteria: Data shows patterns by location and frequency
