@@ -1,0 +1,2 @@
+As a Security Authority, I want to identify repeat offenders so that I can prioritize actions
+Acceptance Criteria: System highlights frequent criminals
